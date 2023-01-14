@@ -15,6 +15,7 @@
 <p><a href="/add">/add</a></p>
 <p><a href="/rtn">/rtn</a></p>
 <p><a href="/login">/login</a></p>
+<p><a href="/api/posts">/api/posts</a></p>
 <p><a href="/account">/account</a></p>
 <form method="POST" action="/account?/logout">
   <p><button type="submit">Log out</button></p>
